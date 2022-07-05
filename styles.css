@@ -1,0 +1,49 @@
+body {background-color:white;}
+
+h1{
+    color:rgb(247, 18, 18);
+    font-weight: bold;
+    font-style: regular;
+    font-size: 80px;
+}
+
+h2{
+    color:rgb(247, 18, 18);
+    font-weight: regular;
+    font-style: regular;
+}
+
+p{
+    color:rgb(247, 18, 18);
+    font-weight: bold;
+    font-style: regular;
+}
+
+h1 { text-align: center }
+h2 { text-align: center }
+h3 { text-align: center }
+div { text-align: center} 
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  img {
+    width: auto;
+    height: auto
+  }
+  
+  input[type=search]{
+    width: 400px;
+    height: 40px;
+    font-size: 16px;
+    padding: 0px 20px 0px 40px;
+    border-radius: 40px;
+    outline: none;
+    border: solid rgb(247, 18, 18);
+    background: url('Search.png') 7px center no-repeat;
+    }
+
